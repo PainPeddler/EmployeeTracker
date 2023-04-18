@@ -1,3 +1,4 @@
 node_modules
-packalge-lock.json
+package-lock.json
 .vscode
+.env
