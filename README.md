@@ -20,7 +20,7 @@
   npm inquirey required
   dotenv required for password
   mysql2 package also needed
-
+  it is necessary to also create a .env file with a DB_PASSWORD variable set to one's sql password
   ## Instructions
   you may need to run the sql files in mysql first. this can be done by:
   mysql source db/shcema.sql
