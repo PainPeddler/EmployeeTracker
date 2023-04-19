@@ -19,4 +19,5 @@ VALUES ("Ben", "Dover", 1,1),
         ("Chemical","Geniusman",4,2),
 
         ("Clone", "Trooper",6,3),
-        ("Space", "Pilotman",6,3);
+        ("Space", "Pilotman",6,3),
+        ("Mr", "Clean",6,3);
